@@ -1,6 +1,6 @@
 # Inspired by https://medium.com/pernod-ricard-tech/adding-basic-authentication-with-nginx-as-a-reverse-proxy-a229f9d12b73
 
-FROM nginx:latest
+FROM nginx:1.23.2
 
 ARG VERSION=0.40.22
 
