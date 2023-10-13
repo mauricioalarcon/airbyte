@@ -1,4 +1,4 @@
-FROM python:3.9.11-slim as base
+FROM python:3.11.6-slim as base
 
 # build and load all requirements
 FROM base as builder
