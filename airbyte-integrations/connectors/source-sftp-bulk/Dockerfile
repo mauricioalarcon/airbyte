@@ -1,4 +1,4 @@
-FROM python:3.9-slim
+FROM python:3.12.0b1-slim
 # FROM python:3.9.11-alpine3.15
 
 # Bash is installed for more convenient debugging.
