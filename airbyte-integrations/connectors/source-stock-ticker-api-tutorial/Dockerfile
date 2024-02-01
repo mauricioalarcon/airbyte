@@ -1,4 +1,4 @@
-FROM python:3.9-slim
+FROM python:3.13.0a3-slim
 
 # We change to a directory unique to us
 WORKDIR /airbyte/integration_code
