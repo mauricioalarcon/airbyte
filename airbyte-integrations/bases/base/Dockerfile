@@ -1,4 +1,4 @@
-FROM amazonlinux:2022.0.20220831.1
+FROM amazonlinux:2022
 
 WORKDIR /airbyte
 
